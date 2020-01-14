@@ -1,0 +1,28 @@
+
+
+.box-top {
+    height: 100px;
+    width: 1000px;
+    background-color: gray;
+}
+
+.box-left {
+    height:600px;
+    width:100px;
+    background-color: lightgrey;
+    display: inline-block;
+}
+
+.box-right {
+    height: 600px;
+    width: 100px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+.box-bottom {
+    height:100px;
+    width: 800px;
+    background-color: black;
+    display: inline-block;
+}
